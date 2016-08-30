@@ -1,8 +1,10 @@
 /*Your css code here*/
 
-#header{
-	background-color: #66CCFF;
+
+h1 {
+    background-color: green;
 }
+
 body{
-	background-color: #EEE;
+	background-color: lightblue;
 }
